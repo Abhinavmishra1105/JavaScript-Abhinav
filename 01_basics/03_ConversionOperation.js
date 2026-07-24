@@ -17,10 +17,10 @@ let ValueInNumber = Number (age)
 // "33abc" => output =  NaN (NOT a NUMBER)
 // true => 1 ; False => 0 
 
-let isLoggedIn = "abhi"
+let isLoggedIn = "1"
 
 let booleanIsLoggedIn = Boolean (isLoggedIn)
-// console.log (booleanIsLoggedIn);
+//  console.log (booleanIsLoggedIn);
 
 // 1 => True ; 0 => False 
 // "" => False
